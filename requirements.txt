@@ -1,0 +1,19 @@
+fastapi
+uvicorn
+httpx
+PyPDF2
+python-multipart
+sqlalchemy
+psycopg2-binary
+tqdm
+pymupdf           # fitz module
+pydantic
+ollama
+frontend
+dotenv
+numpy
+python-dotenv
+uuid
+transformers 
+sentence-transformers 
+torch
